@@ -1,6 +1,6 @@
 # F2F Fundraising Streets – Online-Spiel & Materialshop
 
-Version **2.14** · statische Website mit Spiel, Charaktergalerie und kostenlosem Downloadbereich.
+Version **2.15** · statische Website mit Spiel, Charaktergalerie und kostenlosem Downloadbereich.
 
 ## Projektstruktur
 

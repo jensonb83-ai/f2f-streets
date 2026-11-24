@@ -1,0 +1,1 @@
+2.15 – 19 Shop-Vorschauen in 1600 × 960, PDF-Vorschauen neu gerendert; 134 Charakterporträts als separate WebP-Dateien vorsichtig hochskaliert und nachgeschärft; QR-Code unverändert, ohne neue Bilddetails zu erfinden. Bildausschnitte vollständig sichtbar, Hover-Zoom entfernt. Spielregeln, 19 Downloads und Datenschutzlogik unverändert.
