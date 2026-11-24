@@ -1,0 +1,1 @@
+2.14 – Shop: größere und einheitliche Thumbnails, fallback bei fehlenden Bildern, responsive Kacheln; technisches Konzept für späteren E-Mail-Flow und CRM; keine Backend-Aktivierung.

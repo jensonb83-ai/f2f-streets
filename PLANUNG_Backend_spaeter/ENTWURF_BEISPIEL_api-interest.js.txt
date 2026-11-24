@@ -1,0 +1,11 @@
+// ENTWURF – NICHT produktiv aktivieren. Für spätere Vercel Function /api/interest
+// Serverseitiger Beispielablauf ohne echte Dienstanbindung.
+export default async function handler(request, response) {
+  if (request.method !== 'POST') return response.status(405).json({ error: 'Method not allowed' });
+  return response.status(503).json({
+    error: 'E-Mail-Eintragung ist in der Testphase nicht aktiviert.',
+    info: 'Downloads bleiben ohne Anmeldung verfügbar.'
+  });
+}
+// Bei Aktivierung: Rate-Limit, Bot-Schutz, E-Mail-/Payloadvalidierung,
+// getrennte Newsletter-Einwilligung, Provider-DOI, Datenschutz und Fehlerbehandlung ergänzen.
